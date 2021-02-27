@@ -1,1 +1,0 @@
-<p>issue <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="672746221" data-permission-text="Title is private" data-url="https://github.com/metztest/test-theme/issues/1" data-hovercard-type="issue" data-hovercard-url="/metztest/test-theme/issues/1/hovercard" href="https://github.com/metztest/test-theme/issues/1">#1</a></p>
