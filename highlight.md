@@ -31,6 +31,15 @@
 </div>
 
 
+<div style="margin:auto;">
+  
+| Header | Header | 
+| :---: | :---: |
+| Value | Value |
+
+</div>
+
+
 
   
 
