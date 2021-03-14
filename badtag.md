@@ -2,4 +2,4 @@
 title: testing Jekyll line numbers
 ---
 
-{{ bad }}
+My favorite food is {{ favorite_food }}
